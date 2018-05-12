@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    body {
+        background-image: url("http://static.giga.de/wp-content/gallery/android-l-hintergrundbilder/wallpaper_51.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}

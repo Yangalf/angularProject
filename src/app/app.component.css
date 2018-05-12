@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  transition: 0.2s;
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: grey;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+/*# sourceMappingURL=app.component.css.map */
